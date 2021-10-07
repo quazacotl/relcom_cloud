@@ -1,0 +1,33 @@
+@import "base/fonts"
+@import "Resetter.css"
+
+*
+  font-family: "Roboto", sans-serif
+  //font-size: 16px
+a
+  text-decoration: none
+  color: inherit
+
+.container
+  max-width: 1200px
+  margin: auto
+  padding: 0 20px
+
+\:root
+  --card-text-color: #ffffff
+  --main-text-color: #6b6b6b
+  --header-fsz: 52px
+
+@mixin header
+  text-align: center
+  color: var(--main-text-color)
+  font-size: var(--header-fsz)
+  line-height: 58px
+  font-weight: 700
+
+@import "components/header"
+@import "components/promo"
+@import "components/services"
+@import "components/footer"
+
+@import "./base/media"

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="logo" viewBox="0 0 529 140" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g transform="matrix(0.999474, 0, 0, 1, -9.731977, -148.509872)">
+    <rect x="23.756" y="169.741" width="45.82" height="13" style="fill: rgb(164, 164, 164);" rx="4.029" ry="4.029"/>
+    <rect y="198.629" width="125.256" height="13" style="fill: rgb(174, 232, 0);" rx="4.029" ry="4.029" x="9.773"/>
+    <rect x="20.421" y="227.518" width="78.225" height="13" style="fill: rgb(0, 188, 109);" rx="4.029" ry="4.029"/>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: Roboto Condensed; font-size: 21.8px; font-weight: 500; white-space: pre;" transform="matrix(5.251942, 0, 0, 4.856802, -1068.476562, -1150.868774)" x="231.51" y="253.418">Relcom</text>
+  <text style="fill: rgb(149, 149, 149); font-family: Roboto Condensed; font-size: 21.8px; font-weight: 500; white-space: pre;" transform="matrix(2.654704, 0, 0, 2.238081, -506.263275, -472.154236)" x="250.155" y="273.306">cloud</text>
+</svg>
